@@ -6,7 +6,7 @@ Building scalable data pipelines and cloud-based data platforms that transform r
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=Vigneshwaran-DataEngineer&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
 </p>
 
 ---
