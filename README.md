@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigneshwaran Venkatachalapathi</h1>
-<h3 align="center">Data Engineer | GCP • PySpark • SQL • Airflow • ETL/ELT • Data Warehousing</h3>
+<h3 align="center">Data Engineer • GCP • PySpark • SQL • Airflow • ETL/ELT • Data Warehousing</h3>
 
 <p align="center">
 Building scalable data pipelines and cloud-based data platforms that transform raw data into reliable, analytics-ready datasets.
